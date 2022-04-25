@@ -1,0 +1,12 @@
+{
+  "Author": "XIV Tools",
+  "Name": "Mod Converter",
+  "Punchline": "Convert raw files into Penumbra compatibile files automatically",
+  "Description": "Convert raw files into Penumbra compatibile files automatically",
+  "InternalName": "modConverter",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "mod",
+    "XIV Tools"
+  ]
+}
